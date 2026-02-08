@@ -1,0 +1,17 @@
+
+-- Adventures Of Jack --
+
+
+
+--Location: Ohio
+	Suburbs of Ohio, small town. Across the city is a carwash Jack works at
+
+--Time: Current day but intro is a small story of the history of Jack to set the pace, then the game starts today.
+
+--Plot: Jack sets out to clense his town of the zombie horde 
+
+--Combat ideas: Could be turn based, pokemon style combat/ Dnd/ general RPG mechanics.
+	
+	Could be real time combat with live sprites, weapons, and projectiles. 
+	
+	
